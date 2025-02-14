@@ -8,9 +8,7 @@ Qubic mining for mobile devices & single board computers aarch64 armv8 (64-bit) 
 - Raspberry Pi 5: Via Raspberry Pi OS Lite (Debian 12 Bookworm)
 
 # Installation (Now working Natively in Termux):
-1. Download & install latest .apk from Apkmirror or Google Play Store
-[Userland](https://www.apkmirror.com/apk/userland-technologies-incorporated/userland/userland-24-04-03-release/userland-linux-on-android-24-04-03-2-android-apk-download):
-![](Images/userland.png)
+1. Download and install termux or userland
 
 3. Open Userland app and install Ubuntu accept permissions, we will use minimal environment and terminal or CLI this can take a couple minutes...:
 ![](Images/ubuntu.png)
